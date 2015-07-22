@@ -148,6 +148,6 @@ $("#mapDiv").append(googleMap);
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
 "<li><a href='index.html'>Home</a></li>" +
-"<li><a href='index.html'>Data</a></li>" +
-"<li><a href='index.html'>About</a></li>" +
+"<li><a href='https://github.com/Eljefe11/Nanodegree/tree/Eljefe11-Project2'>Data</a></li>" +
+"<li><a href='https://github.com/Eljefe11/Nanodegree/blob/Eljefe11-Project2/README2.md'>About</a></li>" +
 "</ul>";
